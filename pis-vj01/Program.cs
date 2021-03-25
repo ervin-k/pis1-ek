@@ -6,6 +6,7 @@ namespace pis_vj01
     {
         static void Main(string[] args)
         {
+            //komentar
             Console.WriteLine("Hello World!");
         }
     }
