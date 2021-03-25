@@ -8,6 +8,7 @@ namespace pis_vj01
     {
         void thisMethodPrints() {
             Console.WriteLine("Printed");
+            Console.WriteLine("Fixed bug");
         }
     }
 }
