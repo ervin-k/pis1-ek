@@ -6,5 +6,8 @@ namespace pis_vj01
 {
     class NewClass
     {
+        void thisMethodPrints() {
+            Console.WriteLine("Printed");
+        }
     }
 }
