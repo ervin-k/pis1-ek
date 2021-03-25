@@ -7,6 +7,7 @@ namespace pis_vj01
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Nesto novo");
         }
     }
 }
